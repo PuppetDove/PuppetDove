@@ -168,62 +168,65 @@ ${\textsf{\color{#6495ED} I REALLY love birds. I feel they represent me in a way
   <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
 </p>
 
-${\textsf{\color{#6495ED} Puppetdove art!!}}$
+${\textsf{\color{#6495ED} Puppetdove art!! Some from me, some from friends!}}$
 
 <p align="center">
   <img width="300" src="https://github.com/WanderersWife/WanderersWife/blob/bbb33825b7eb00dac1897931a16a6a673a58261c/Untitled57_20261109121751.png">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/IMG_5067.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/IMG_8798.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Khong_Co_Tieu_e347_20251208233436.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled20_20261002133148.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled268_20260715232451.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled28_20260927074434.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled308_20260823224655.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/Untitled367_20250905235325.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/scrila.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/WanderersWife/for-read-me/blob/62f774e42afe0b6f24e6e8ccce68e65c5f19b0ac/scrila2-1.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/4c3f5ce17e187bf00dafb93dcb8ea1a0.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/Untitled24_20261005195433.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/Untitled54_20261106163545.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/Untitled66_20261122014249.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/Untitled67_20261123053558.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/Untitled704_20261123134302.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/Untitled_Artwork.webp">
 </p>
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/haru_20261122183842.webp">
+</p>
+<p align="center">
+  <img width="300" src="https://github.com/PuppetDove/PuppetDove/blob/15346b74cfc3a4290b50be0d5fb8f5e1dda4f76c/serlsv9omwydam3.webp">
 </p>
