@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/bbb33825b7eb00dac1897931a16a6a673a58261c/a6aa5c6af401c75360acdf764bbbc8b247441c07.gifv.gif">
+  <img width="500" src="https://github.com/WanderersWife/WanderersWife/blob/bbb33825b7eb00dac1897931a16a6a673a58261c/a6aa5c6af401c75360acdf764bbbc8b247441c07.gifv.gif">
 </p>
 
 <p align="center">
