@@ -167,3 +167,9 @@ ${\textsf{\color{#6495ED} I REALLY love birds. I feel they represent me in a way
   ${\textsf{\color{#0047AB} She's lost family, just like Wanderer, and had felt trapped just like I do in my own home.}}$
   ${\textsf{\color{#6495ED} I chose Doves. Specifically albino mourning dove, as it represents nostalgia for the past.}}$
 </details>
+
+<p align="center">
+  <img width="700" src="https://github.com/WanderersWife/WanderersWife/blob/557be516172cbd6b2b0a9c46d604d88c5ab9c87a/tumblr_7e08af3b9a5e0c51f51dceb158b3b737_21993e2b_1280.webp">
+</p>
+
+${\textsf{\color{#6495ED} Puppetdove art!!}}$
